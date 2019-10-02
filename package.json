@@ -1,0 +1,16 @@
+{
+  "name": "overmind-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "dev": "parcel src/index.html"
+  },
+  "dependencies": {
+    "overmind": "^19.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
